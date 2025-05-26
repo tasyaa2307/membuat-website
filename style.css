@@ -1,0 +1,202 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #604c64;
+  color: #333;
+}
+
+header {
+  background-color: #d6f5e3;
+  text-align: center;
+  padding: 2em 1em;
+}
+
+.profile-photo {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 4px solid #fff;
+  margin-bottom: 1em;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+header h1 {
+  margin: 0;
+  color: #55415a;
+}
+
+header p {
+  margin: 0.5em 0;
+  color: #c8bbcb;
+}
+
+nav {
+  margin-top: 1em;
+}
+
+nav a {
+  margin: 0 1em;
+  text-decoration: none;
+  color: #2e7c6f;
+  font-weight: bold;
+}
+
+main {
+  max-width: 900px;
+  margin: 2em auto;
+  padding: 0 1em;
+  display: flex;
+  flex-direction: column;
+  gap: 2em;
+}
+
+/* Box Styles with different pastel colors */
+#about.box {
+  background-color: #ffe0cc;
+}
+
+#experience.box {
+  background-color: #e6d5f7;
+}
+
+#contact.box {
+  background-color: #fff6cc;
+}
+
+.box {
+  padding: 2em;
+  border-radius: 15px;
+  box-shadow: 0 4px 12px rgba(200, 150, 170, 0.15);
+  transition: transform 0.3s ease;
+}
+
+.box:hover {
+  transform: translateY(-5px);
+}
+
+.box h2 {
+  margin-top: 0;
+  color: #5e4b7a;
+  border-bottom: 2px solid rgba(0,0,0,0.1);
+  padding-bottom: 0.5em;
+}
+
+footer {
+  text-align: center;
+  padding: 1.5em;
+  background-color: #c2eace;
+  color: #397d6c;
+  margin-top: 3em;
+}
+
+a {
+  color: #5a3c91;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+ body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #fafafa;
+  color: #333;
+}
+
+header {
+  background-color: #d6f5e3;
+  text-align: center;
+  padding: 2em 1em;
+}
+
+.profile-photo {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 4px solid #fff;
+  margin-bottom: 1em;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+header h1 {
+  margin: 0;
+  color: #387f6d;
+}
+
+header p {
+  margin: 0.5em 0;
+  color: #4c9c88;
+}
+
+nav {
+  margin-top: 1em;
+}
+
+nav a {
+  margin: 0 1em;
+  text-decoration: none;
+  color: #2e7c6f;
+  font-weight: bold;
+}
+
+main {
+  max-width: 900px;
+  margin: 2em auto;
+  padding: 0 1em;
+  display: flex;
+  flex-direction: column;
+  gap: 2em;
+}
+
+/* Box Styles with different pastel colors */
+#about.box {
+  background-color: #9ac9d6;
+}
+
+#experience.box {
+  background-color: #dee2af;
+}
+
+#contact.box {
+  background-color: #8dcaac;
+}
+
+.box {
+  padding: 2em;
+  border-radius: 15px;
+  box-shadow: 0 4px 12px rgba(200, 150, 170, 0.15);
+  transition: transform 0.3s ease;
+}
+
+.box:hover {
+  transform: translateY(-5px);
+}
+
+.box h2 {
+  margin-top: 0;
+  color: #324251;
+  border-bottom: 2px solid rgba(0,0,0,0.1);
+  padding-bottom: 0.5em;
+}
+
+footer {
+  text-align: center;
+  padding: 1.5em;
+  background-color: #c2eace;
+  color: #397d6c;
+  margin-top: 3em;
+}
+
+a {
+  color: #1b262a;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
