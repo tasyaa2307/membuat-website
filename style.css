@@ -170,6 +170,10 @@ main {
   background-color: #8dcaac;
 }
 
+  #Gallery.box {
+   background-color: #fff6cc;
+}
+
 .box {
   padding: 2em;
   border-radius: 15px;
